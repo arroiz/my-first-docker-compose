@@ -19,4 +19,10 @@ Para executar, basta clonar esse repositório e rodar o comando abaixo:
 
 ```
 docker-compose up
+or
+docker-compose up -d
 ```
+
+### Como acessar
+
+Com tudo rodando, basta acessar a URL `localhost:8080`
