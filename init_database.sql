@@ -1,0 +1,6 @@
+CREATE DATABASE IF NOT EXISTS nodedb;
+CREATE TABLE IF NOT EXISTS people (
+  id INT AUTO_INCREMENT,
+  name VARCHAR(255) NOT NULL,
+  primary key(id)  
+);
